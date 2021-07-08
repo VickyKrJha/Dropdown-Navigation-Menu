@@ -51,6 +51,7 @@ function buildTreeView($arr,$parent,$level=0,$prelevel= -1){
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>Dynamic Multilevel Menu</title>
+      
       <link href="css/bootstrap.css" rel="stylesheet">
       <link href="css/jquery.smartmenus.bootstrap.css" rel="stylesheet">
       <link id="switcher" href="css/theme-color/default-theme.css" rel="stylesheet">
@@ -81,6 +82,11 @@ function buildTreeView($arr,$parent,$level=0,$prelevel= -1){
             </div>
          </div>
       </section>
+
+		
+
+
+
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
       <script src="js/bootstrap.js"></script>  
       <script type="text/javascript" src="js/jquery.smartmenus.js"></script>
